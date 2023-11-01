@@ -97,7 +97,7 @@ section .main .main_content .main_text h1{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: relative;
-    top: 45px;
+    top: 50px;
     left: 5%;
 }
 
@@ -106,6 +106,7 @@ section .main .main_content .main_text h1 span{
     background: linear-gradient(to right, #c72092, #6c14d0);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    
 }
 
 section .main .main_content .main_text p{
